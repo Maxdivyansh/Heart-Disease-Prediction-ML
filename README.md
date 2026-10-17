@@ -1,3 +1,13 @@
+## 🚀 Live Demo
+
+🌐 **Live Website:** https://heart-disease-prediction-ml-v95d.onrender.com
+
+💻 **GitHub Repository:** https://github.com/Maxdivyansh/Heart-Disease-Prediction-ML
+
+Try the live application to explore the Heart Disease Prediction machine learning project.
+
+⚠️ **Disclaimer:** This project is intended for educational and demonstration purposes only. It is not a clinically validated diagnostic tool and must not be used to diagnose heart disease or make medical decisions.
+
 <<<<<<< HEAD
 # Heart Disease Prediction Web App
 
