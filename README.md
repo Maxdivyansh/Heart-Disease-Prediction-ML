@@ -204,7 +204,7 @@ This project is intended for educational and demonstration purposes only. It is 
 
 **YOUR NAME**
 
-- GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [YOUR-USERNAME](https://github.com/Maxdivyansh)
 
 ## 📄 License
 
