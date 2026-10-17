@@ -8,7 +8,6 @@ Try the live application to explore the Heart Disease Prediction machine learnin
 
 ⚠️ **Disclaimer:** This project is intended for educational and demonstration purposes only. It is not a clinically validated diagnostic tool and must not be used to diagnose heart disease or make medical decisions.
 
-<<<<<<< HEAD
 # Heart Disease Prediction Web App
 
 A small Flask web app that serves a heart-disease prediction form and sends the
